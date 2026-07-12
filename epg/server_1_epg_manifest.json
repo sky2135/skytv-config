@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "serverId": "server_1",
+  "generatedAt": 1783881035,
+  "generatedAtIso": "2026-07-12T18:30:35.439033Z",
+  "windowStart": 1783859435,
+  "windowEnd": 1784140235,
+  "dataFile": "server_1_epg.json.gz",
+  "dataSha256": "a3a9f3a3fe32d3d2a13e018b376ce4e6a7e27bb75902f2bda71bf8c305a9ce17",
+  "mappingSha256": "d823b9ea50cef0fce91e6a6bde4080716ae54f9125f43fc48aa84e6c147b8228",
+  "compressedBytes": 535529,
+  "mappedStreams": 4364,
+  "streamsWithProgrammes": 4299,
+  "coveragePercent": 98.51,
+  "uniqueSchedulesWithProgrammes": 986,
+  "programmeRows": 64373
+}
