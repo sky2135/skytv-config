@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "servers": [
+    {
+      "id": "server_1",
+      "baseUrl": "http://REPLACE-WITH-SERVER-1"
+    },
+    {
+      "id": "server_2",
+      "baseUrl": "https://REPLACE-WITH-SERVER-2"
+    },
+    {
+      "id": "server_3",
+      "baseUrl": "https://REPLACE-WITH-SERVER-3"
+    }
+  ]
+}
